@@ -3,7 +3,7 @@
 A comprehensive data science pipeline was built to analyze British Airways customer reviews and uncover the main drivers of customer satisfaction and dissatisfaction. The project combined structured ratings, unstructured review text, and advanced machine learning to deliver actionable business insights.
 
 **Applied Methods**
-**Web Scraping**: Automated extraction of 3,949 reviews, ratings, and metadata from AirlineQuality.com.
+**Web Scraping**: Automated extraction of 3,949 reviews, ratings, and metadata from SKYTRAX.com.
 
 **Data Cleaning**: Imputation of missing values, type conversion, and outlier handling for robust analysis.
 
